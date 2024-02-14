@@ -1,0 +1,884 @@
+html {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+ul,
+li {
+  list-style: none;
+}
+input {
+  border: none;
+}
+body {
+  
+  overflow-x: hidden;
+  
+
+}
+.Contenedor_principal {
+  top: 310.6rem;
+  width: calc(100%);
+}
+.Contenedor_principal .Grupo5 .Contendor_Grupo5 {
+  width: 192rem;
+  height: 125.3rem;
+  left: 0;
+  top: 0.6rem;
+  background-color: #dec9e6;
+}
+.Contenedor_principal
+  .Grupo5
+  .Grupo5_parrafo3 {
+  width: 22rem;
+  height: 9.2rem;
+  left: 127.4rem;
+  top: 56.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+}
+.Contenedor_principal .Grupo5 .Grupo5_Rectangulo2 {
+  width: 48.8rem;
+  height: 77.3rem;
+
+  left: 71.6rem;
+  top: 27rem;
+  background-color: rgba(146, 75, 171, 0.8999999762);
+}
+.Contenedor_principal .Grupo5 .Grupo5_Rectangulo1 {
+  width: 37.3rem;
+  height: 59.7rem;
+
+  left: 35.6rem;
+  top: 36.9rem;
+  background-color: rgba(146, 75, 171, 0.3000000119);
+}
+.Contenedor_principal .Grupo5 .Grupo5_Rectangulo3 {
+  width: 37.3rem;
+  height: 59.7rem;
+
+  left: 119.1rem;
+  top: 36.9rem;
+  background-color: rgba(146, 75, 171, 0.3000000119);
+}
+.Contenedor_principal .Grupo5 .Grupo5_img1 {
+  width: 20rem;
+  height: 20rem;
+
+  left: 43.6rem;
+  top: 30.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.Contenedor_principal .Grupo5 .Grupo5_img2 {
+  width: 20rem;
+  height: 20.0417rem;
+
+  left: 86rem;
+  top: 20rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.Contenedor_principal .Grupo5 .juan-david-sPH {
+  width: 12.6rem;
+  height: 2.8rem;
+
+  left: 89.7rem;
+  top: 41.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+}
+.Contenedor_principal .Grupo5 .jose-camilo-NL3 {
+  width: 13.8rem;
+  height: 2.8rem;
+
+  left: 131.5rem;
+  top: 51.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+}
+.Contenedor_principal .Grupo5 .Grupo5_img3 {
+  width: 20rem;
+  height: 19.929rem;
+
+  left: 128.4rem;
+  top: 30.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.Contenedor_principal .Grupo5 .daniel-DrT {
+  width: 7.4rem;
+  height: 2.8rem;
+
+  left: 49.9rem;
+  top: 51.1rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+}
+.Contenedor_principal
+  .Grupo5
+  .Grupo5_Parrafo1 {
+  width: 22rem;
+  height: 9.2rem;
+
+  left: 42.6rem;
+  top: 56.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+}
+.Contenedor_principal
+  .Grupo5
+  .Grupo5_Parrafo2 {
+  width: 23.6rem;
+  height: 12.9rem;
+
+  left: 84.2rem;
+  top: 48.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+}
+.Contenedor_principal .Grupo5 .vector-2-Yfm {
+  width: 49.5095rem;
+  height: 36.55rem;
+
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Contenedor_principal .Grupo5 .vector-4-fkP {
+  width: 49.5095rem;
+  height: 36.55rem;
+
+  left: 142.5rem;
+  top: 89.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Contenedor_principal .Grupo5 .opiniones-de-usuarios-nq1 {
+  width: 81.4rem;
+  height: 7.4rem;
+
+  left: 55.35rem;
+  top: 6.1rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+}
+.Contenedor_principal .Grupo1 {
+  box-sizing: border-box;
+  padding: 18.1rem 45.5rem 15.4rem 36rem;
+  width: calc(100%);
+  height: 72.5rem;
+
+  left: 0;
+  top: 6rem;
+  display: flex;
+  align-items: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("img/image-32-bg.png");
+}
+.Contenedor_principal .Grupo1 .Contenedor_Grupo1 {
+  margin: 4.7rem 3.8rem 6.6rem 0rem;
+  height: calc(100% - 11.3rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo1
+  .Contenedor_Grupo1
+  .Contenedor_Grupo1_Titulo {
+  margin-bottom: 1.6rem;
+  max-width: 67.7rem;
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Ubuntu, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo1
+  .Contenedor_Grupo1
+  .Contenedor_Grupo1_Titulo
+  .Contenedor_Grupo1_Titulo-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Ubuntu, "Source Sans Pro";
+}
+.Contenedor_principal
+  .Grupo1
+  .Contenedor_Grupo1
+  .Contenedor_Grupo1_Titulo
+  .Contenedor_Grupo1_Titulo-sub-1 {
+}
+.Contenedor_principal
+  .Grupo1
+  .Contenedor_Grupo1
+  .Contenedor_Grupo1_Titulo
+  .Contenedor_Grupo1_Titulo-sub-2 {
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Ubuntu, "Source Sans Pro";
+}
+.Contenedor_principal
+  .Grupo1
+  .Contenedor_Grupo1
+  .Contenedor_Grupo1_Parrafo {
+  margin-bottom: 2rem;
+  max-width: 61.8rem;
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Ubuntu, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo1 .Contenedor_Grupo1 .Contenedor_Grupo1_Button {
+  width: 18rem;
+  height: 4.4rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #dec9e6;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo1 .Cara-enamorada {
+  width: 39rem;
+  height: 39rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo2 {
+  box-sizing: border-box;
+  padding: 6.4rem 29.6rem 6.4rem 34.6rem;
+  width: calc(100%);
+  height: 27rem;
+
+  left: 0;
+  top: 78.5rem;
+  display: flex;
+  column-gap: 1.7rem;
+  align-items: center;
+  background-color: #ab82b8;
+}
+.Contenedor_principal .Grupo2 .Cara_asustada {
+  width: 14.2rem;
+  height: 14.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo2
+  .Grupo2_TItulo {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 4.2rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.Contenedor_principal .Grupo4 {
+  box-sizing: border-box;
+  padding: 10rem 20.9rem 4rem 17.8rem;
+  width: calc(100%);
+  height: 38.7rem;
+
+  left: 0;
+  top: 190.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.Contenedor_principal .Grupo4 .Grupo4_Contenedor-texto {
+  margin: 0rem 21.4rem 4.9rem 24.5rem;
+  width: calc(100%);
+  height: 12.4rem;
+  text-align: center;
+  font-size: 4.2rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2f00ff;
+
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo4 .Grupo4_Contenedor-titulos {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo4 .Grupo4_Contenedor-titulos .gaming-FWs {
+  margin-right: 39.2rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #924bab;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo4 .Grupo4_Contenedor-titulos .musica-yhm {
+  margin-right: 41.7rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #924bab;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo4 .Grupo4_Contenedor-titulos .anime-84s {
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #924bab;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo4_Contenedor-imagenes {
+  width: 192rem;
+  height: 69.7rem;
+
+  left: 0;
+  top: 229.2rem;
+  display: flex;
+  align-items: center;
+}
+.Contenedor_principal .Grupo4_Contenedor-imagenes .Grupo4_img2 {
+  margin-right: 1.8rem;
+  width: 62rem;
+  height: 69.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo4_Contenedor-imagenes .Grupo4_img2 {
+  margin-right: 1.5rem;
+  width: 64rem;
+  height: 69.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo4_Contenedor-imagenes .Grupo4_img3 {
+  width: 62.7rem;
+  height: 69.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo6_Contenedor-Titulo {
+  width: 150.3rem;
+  height: 14.8rem;
+
+  left: 23.6rem;
+  top: 454.1rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+}
+.Contenedor_principal
+  .Grupo6_Contenedor-Titulo
+  .Grupo6_Contenedor-Titulo-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+}
+.Contenedor_principal
+  .Grupo6_Contenedor-Titulo
+  .Grupo6_Contenedor-Titulo-sub-1 {
+}
+.Contenedor_principal
+  .Grupo6_Contenedor-Titulo
+  .Grupo6_Contenedor-Titulo-sub-2 {
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+}
+.Contenedor_principal
+  .Grupo6_Contenedor-Titulo
+  .Grupo6_Contenedor-Titulo-sub-3 {
+}
+.Contenedor_principal .Grupo7 {
+  box-sizing: border-box;
+  padding: 3.9rem 40.3rem 4.2rem 51.4rem;
+  width: 192rem;
+  height: 24.5rem;
+
+  left: 0;
+  top: 503rem;
+  display: flex;
+  align-items: center;
+  background-color: #ab82b8;
+}
+.Contenedor_principal .Grupo7 .ico-1-VEB {
+  margin: 0.2rem 2.3rem 0rem 0rem;
+  width: 14.6rem;
+  height: 14.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo7 .Grupo7_Contenedor-Link {
+  margin: 2.9rem 30.6rem 2.2rem 0rem;
+  width: 10.3rem;
+  height: calc(100% - 5.1rem);
+  row-gap: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo7 .Grupo7_Contenedor-Link .Footer_Inicio {
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo7 .Grupo7_Contenedor-Link .Footer_Nosotros {
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo7 .Grupo7_Contenedor-Link .Footer_Contacto {
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo7 .Grupo7_Contenedor-Link .Footer_Informacion {
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo7 .Grupo7_contenedor-Icon1 {
+  margin-right: 2.5rem;
+  width: 7.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo7
+  .Grupo7_contenedor-Icon1
+  .auto-group-nzxo-mUX {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 1.5rem 0.364rem 0.461rem 0.3rem;
+  width: 100%;
+  background-color: #dec9e6;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo7
+  .Grupo7_contenedor-Icon1
+  .auto-group-nzxo-mUX
+  .icon-twitter-icon-tZ9 {
+  width: 7.136rem;
+  height: 5.8387rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Contenedor_principal
+  .Grupo7
+  .Grupo7_contenedor-Icon1
+  .auto-group-flcs-DLX {
+  box-sizing: border-box;
+  padding: 0.9rem 0.944rem 0.86rem 0.9rem;
+  width: 100%;
+  background-color: #dec9e6;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo7
+  .Grupo7_contenedor-Icon1
+  .auto-group-flcs-DLX
+  .icon-instagram-fill-icon-KeT {
+  width: 5.956rem;
+  height: 6.0401rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Contenedor_principal .Grupo7 .Grupo7_contenedor-Icon2 {
+  margin-right: 2.4rem;
+  width: 7.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo7
+  .Grupo7_contenedor-Icon2
+  .Icon-facebook {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 1rem 0.9rem 0.76rem 0.9rem;
+  width: 100%;
+  background-color: #dec9e6;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo7
+  .Grupo7_contenedor-Icon2
+  .Icon-facebook
+  .icon-social-facebook-icon-gtK {
+  width: 6rem;
+  height: 6.0401rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Contenedor_principal
+  .Grupo7
+  .Grupo7_contenedor-Icon2
+  .Icon-google {
+  box-sizing: border-box;
+  padding: 0.7rem 0.9rem 1.06rem 0.9rem;
+  width: 100%;
+  height: 7.8rem;
+  background-color: #dec9e6;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo7
+  .Grupo7_contenedor-Icon2
+  .Icon-google
+  .icon-google-icon-XP9 {
+  box-sizing: border-box;
+  padding: 0.501rem 0.5rem 0.501rem 0.499rem;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/vector-pxK.png");
+}
+.Contenedor_principal
+  .Grupo7
+  .Grupo7_contenedor-Icon2
+  .Icon-google
+  .icon-google-icon-XP9
+  .vector-SW7 {
+  width: 5.0011rem;
+  height: 5.0384rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.Contenedor_principal .Grupo7 .Grupo7_Contenedor-texto {
+  margin-top: 0.7rem;
+  max-width: 22rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo3 {
+  box-sizing: border-box;
+  padding-top: 3.3rem;
+  width: calc(100%);
+  height: 85rem;
+
+  left: 0;
+  top: 105.5rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #dec9e6;
+}
+.Contenedor_principal .Grupo3 .Contenedor_Grupo3 {
+  margin: 0rem 0.745rem 2.914rem 0rem;
+  height: 63.1865rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo3 .Contenedor_Grupo3 .icon-stars-p9H {
+  margin: 0rem 13.1rem 46.986rem 0rem;
+  width: 13.8rem;
+  height: 16.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo3 .Contenedor_Grupo3 .Celular1 {
+  margin: 5.614rem 1.7rem 0rem 0rem;
+  width: 26rem;
+  height: 53.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo3 .Contenedor_Grupo3 .Celular2 {
+  margin: 5.614rem 11.45rem 0rem 0rem;
+  width: 25.9rem;
+  height: 53.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo3
+  .Contenedor_Grupo3
+  .Grupo4_Contenedor-texto {
+  margin: 24.7rem 13.45rem 19.086rem 0rem;
+  height: calc(100% - 43.7865rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo3
+  .Contenedor_Grupo3
+  .Grupo4_Contenedor-texto
+  .Grupo3_Titulo {
+  margin-bottom: 2.3rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Contenedor_principal
+  .Grupo3
+  .Contenedor_Grupo3
+  .Grupo4_Contenedor-texto
+  .Grupo3_Parrafo {
+  margin-right: 0.2rem;
+  max-width: 62.1rem;
+  text-align: center;
+  font-size: 4.2rem;
+  font-weight: 400;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo3 .Contenedor_Grupo3 .icon-stars-inP {
+  margin-top: 45.0206rem;
+  width: 16.7546rem;
+  height: 18.1659rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Grupo3 .Vector-Ola {
+  width: calc(100%);
+  height: 15.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  background-image: url(/img/vector-1.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.Contenedor_principal .Grupo6_Button-Registrarse {
+  width: 18rem;
+  height: 4.4rem;
+
+  left: 87rem;
+  top: 474.6rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #ffffff;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9d5db3;
+  border-radius: 1rem;
+}
+.Contenedor_principal .Header {
+  box-sizing: border-box;
+  padding: 0.3rem 12.9rem 0.3rem 36rem;
+  width: 100%; /* Ocupa el ancho completo de la ventana del navegador */
+  height: 6rem;
+
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 1.2rem rgba(19, 10, 37, 0.25);
+  background-color: #ffffff;
+  position: fixed;
+  z-index: 2;
+}
+.Contenedor_principal .Header .Logo {
+  margin-right: 106.9rem;
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Header .Header_Inicio {
+  margin: 1.9rem 4rem 1.8rem 0rem;
+  width: 4.5rem;
+  height: calc(100% - 3.7rem);
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Header .Header_Nosotros {
+  margin: 0.1rem 4rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.Contenedor_principal .Header .Header_Comunidades {
+  margin-top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  color: #000000;
+  font-family: Ubuntu, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.Contenedor_Grupo1_Button {
+  /* Estilos adicionales aquí */
+  background-color: #007bff; /* Color de fondo */
+  color: #ffffff; /* Color del texto */
+  border: none; /* Quita el borde */
+  padding: 10px 20px; /* Espaciado interno */
+  border-radius: 5px; /* Borde redondeado */
+  cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
+
+.Grupo6_Button-Registrarse {
+  /* Estilos adicionales aquí */
+  background-color: #007bff; /* Color de fondo */
+  color: #ffffff; /* Color del texto */
+  border: none; /* Quita el borde */
+  padding: 10px 20px; /* Espaciado interno */
+  border-radius: 5px; /* Borde redondeado */
+  cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
+.button{
+  background-color: #007bff; /* Color de fondo */
+  color: #ffffff; /* Color del texto */
+  border: none; /* Quita el borde */
+  padding: 10px 20px; /* Espaciado interno */
+  border-radius: 5px; /* Borde redondeado */
+  cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+}
+.color{
+  background-color: #924bab;
+}
+
+
+/**------------------------**/
+.contenedor__card{
+  max-width: 1220px;
+}
